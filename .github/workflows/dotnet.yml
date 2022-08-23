@@ -28,3 +28,4 @@ jobs:
       with:
         # Artifact name
         name: tso_client # optional, default is artifact
+        path: /**/*.exe
