@@ -1,4 +1,8 @@
-tso windows portable client
+tso windows portable client - fork by wofo
+Dieser Fork der Originalarbeit von @fedorovvl wurde inhaltlich überarbeitet und enthält deutsche Resourcen und Grafiken. 
+Einen eigenen Compile findet ihr hier unter [https://github.com/fondencn/tso_client/releases](Releases). 
+
+
 
 ### 1. Initial start.
 Elements on the start screen: 
